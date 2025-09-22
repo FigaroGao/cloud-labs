@@ -1,8 +1,10 @@
-# cloud-labs
+# Cloud Labs
 Labs for Cloud Computing course
-<div>
-  lab1:[Completed](lab1.md)<br>
-  lab2:Unfinished<br>
-  lab3:Unfinished<br>
-  lab4:Unfinished
-</div>
+
+| Lab  | Status       |
+|------|-------------|
+| lab1 | [Completed](lab1.md) |
+| lab2 | Unfinished  |
+| lab3 | Unfinished  |
+| lab4 | Unfinished  |
+

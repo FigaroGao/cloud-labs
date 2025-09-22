@@ -1,6 +1,8 @@
 # cloud-labs
 Labs for Cloud Computing course
-lab1: Completed
-lab2：Unfinished
-lab3：Unfinished
-lab4：Unfinished
+<div>
+  lab1: Completed<br>
+  lab2：Unfinished<br>
+  lab3：Unfinished<br>
+  lab4：Unfinished
+</div>

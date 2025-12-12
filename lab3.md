@@ -25,8 +25,10 @@ Requirements
 5. Publish the website and verify that it is accessible at https://username.github.io.
 
 Deliverables
-1. A live, functional website hosted on GitHub Pages.
-2. The GitHub repository containing your website’s source code.
+1. A live, functional website hosted on GitHub Pages.  
+Answer: [Click To Website](https://figarogao.github.io)  
+2. The GitHub repository containing your website’s source code.  
+Answer: [Click To Repository](https://github.com/FigaroGao/figarogao.github.io)
 
 Evaluation Criteria
 Your project will be graded on the following:

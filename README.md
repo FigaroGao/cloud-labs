@@ -15,4 +15,4 @@ Labs for Cloud Computing course
 | lab10 | [Uncompleted](lab10.md) |
 | Assessment1 | [Completed](In-ClassAssessment.md)  |
 | Assessment2 | [Completed](In-ClassAssessment2.md)  |
-| Assessment2 | [Uncompleted](In-ClassAssessment4.md)  |
+| Assessment4 | [Uncompleted](In-ClassAssessment4.md)  |

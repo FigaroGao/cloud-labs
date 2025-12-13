@@ -43,4 +43,25 @@ PowerShell:
 Ubuntu:  
 <img width="1002" height="107" alt="image" src="https://github.com/user-attachments/assets/28cfc3ed-4849-4461-8b84-27eac6bd51cb" />
 
-3. 
+3. Install Gitea Using Docker
+
+Create a persistent data volume and run the Gitea container：  
+<img width="998" height="506" alt="image" src="https://github.com/user-attachments/assets/82c42682-7be0-46f5-a47f-fc8db0ac8f57" />
+
+4. Configure Gitea
+
+General Settings：  
+<img width="1453" height="601" alt="image" src="https://github.com/user-attachments/assets/3a58fbc2-0d1a-469d-bb10-f07f5741bc4b" />
+
+Support LFS：  
+<img width="1344" height="549" alt="image" src="https://github.com/user-attachments/assets/dd386360-2672-4171-9382-9ef7cf6bd3d2" />
+
+Gitea Base URL：  
+<img width="1533" height="972" alt="image" src="https://github.com/user-attachments/assets/7822cee2-4f3c-467e-b4f4-e01e24909585" />
+
+Creating an administrator account：  
+<img width="1431" height="737" alt="image" src="https://github.com/user-attachments/assets/de911a51-5b61-4110-99c5-9defbe48e057" />
+
+5. Gitea
+
+<img width="2519" height="696" alt="image" src="https://github.com/user-attachments/assets/f2946143-1b1b-4525-ad0a-374cadfddbe8" />

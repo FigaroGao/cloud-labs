@@ -5,8 +5,8 @@ Labs for Cloud Computing course
 |------|-------------|
 | lab1 | [Completed](lab1.md) |
 | lab2 | [Completed pictures loss](lab2.md) |
-| lab3 | [completed](lab3.md) |
-| lab4 | [Uncompleted](lab4.md) |
+| lab3 | [Completed](lab3.md) |
+| lab4 | [Completed](lab4.md) |
 | lab5 | [Uncompleted](lab5.md) |
 | lab6 | [Uncompleted](lab6.md) |
 | lab7 | [Uncompleted](lab7.md) |

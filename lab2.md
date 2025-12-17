@@ -22,4 +22,15 @@ Recommendations:
  nebula-cert sign -name "MBP15" -ip "192.168.100.15/24"
  nebula-cert sign -name "mini" -ip "192.168.100.10/24"
  sudo nebula -config ~/.nebula/config.yaml
-<img width="1051" height="253" alt="image" src="https://github.com/user-attachments/assets/46e7948f-a607-4a25-b06a-10a7c4437768" />
+
+Download:  
+<img width="1134" height="479" alt="image" src="https://github.com/user-attachments/assets/0673355f-f013-41e6-9c94-8ebef7079338" />
+
+Edit the address:  
+<img width="710" height="115" alt="image" src="https://github.com/user-attachments/assets/f9cae184-64ad-4841-a43c-0183e9d0e87e" />
+
+Connect:  
+<img width="960" height="439" alt="image" src="https://github.com/user-attachments/assets/b14c92c9-df0f-446d-8d4c-4a5742a4fae6" />  
+
+Ping successfully:  
+<img width="543" height="267" alt="image" src="https://github.com/user-attachments/assets/9f3bef1d-0b32-430e-880c-8c698ef36531" />

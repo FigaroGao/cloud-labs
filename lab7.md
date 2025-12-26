@@ -4,3 +4,6 @@ https://istio.io/latest/docs/setup/getting-started/
 
 
 Please write a document with screenshots and notes for major steps and commit it to your github repo.
+
+
+| lab7 | [Completed](lab7.docx) |

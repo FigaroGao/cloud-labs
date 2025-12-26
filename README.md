@@ -9,10 +9,10 @@ Labs for Cloud Computing course
 | lab4 | [Completed](lab4.md) |
 | lab5 | [Completed](lab5.docx) |
 | lab6 | [Completed](lab6.docx) |
-| lab7 | [Uncompleted](lab7.md) |
-| lab8 | [Uncompleted](lab8.md) |
-| lab9 | [Uncompleted](lab9.md) |
-| lab10 | [Uncompleted](lab10.md) |
+| lab7 | [Completed](lab7.docx) |
+| lab8 | [Completed](lab8.docx) |
+| lab9 | [Completed](lab9.docx) |
+| lab10 | [Completed](lab10.docx) |
 | Assessment1 | [Completed](In-ClassAssessment.md)  |
 | Assessment2 | [Completed](In-ClassAssessment2.md)  |
 | Assessment4 | [Uncompleted](In-ClassAssessment4.md)  |

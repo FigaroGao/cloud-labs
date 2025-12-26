@@ -8,7 +8,7 @@ Labs for Cloud Computing course
 | lab3 | [Completed](lab3.md) |
 | lab4 | [Completed](lab4.md) |
 | lab5 | [Completed](lab5.docx) |
-| lab6 | [Uncompleted](lab6.md) |
+| lab6 | [Completed](lab6.docx) |
 | lab7 | [Uncompleted](lab7.md) |
 | lab8 | [Uncompleted](lab8.md) |
 | lab9 | [Uncompleted](lab9.md) |

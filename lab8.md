@@ -9,3 +9,6 @@ https://istio.io/latest/docs/tasks/traffic-management/circuit-breaking/
 
 
 Please write a document with screenshots and notes for major steps and commit it to your github repo.
+
+
+| lab8 | [Completed](lab8.docx) |

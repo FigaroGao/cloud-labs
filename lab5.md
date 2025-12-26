@@ -16,3 +16,6 @@ Please write a document with screenshots and notes and commit it to your github 
 Recommendations:
 https://docs.docker.com/desktop/install/windows-install/
 https://docs.docker.com/desktop/wsl/
+
+
+| lab5 | [Completed](lab5.docx) |

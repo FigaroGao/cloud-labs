@@ -49,3 +49,6 @@ https://knative.dev/docs/getting-started/getting-started-eventing/
 
 
 Please write a document with screenshots and notes for major steps and commit it to your github repo.
+
+
+| lab9 | [Completed](lab9.docx) |

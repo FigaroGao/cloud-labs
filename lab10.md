@@ -20,3 +20,6 @@ https://futurelei.com/KServe.mov
 You are free to choose your own predictive model.
 
 Please write a document with screenshots and notes for major steps and commit it to your github repo.
+
+
+| lab10 | [Completed](lab10.docx) |

@@ -16,4 +16,4 @@ Labs for Cloud Computing course
 | Assessment1 | [Completed](In-ClassAssessment.md)  |
 | Assessment2 | [Completed](In-Class%20Assessment2.md)  |
 | Assessment4 | [Completed](In-Class%20Assessment4.md)  |
-| Project | [Uncompleted]  |
+| Project | [Completed](Project.pdf)  |

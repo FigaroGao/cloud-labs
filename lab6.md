@@ -11,4 +11,4 @@ https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
 Please write a document with screenshots and notes for major steps and commit it to your github repo.
 
 
-| lab6 | [Completed](lab6.docx) |
+| lab6 | [Completed](LAB6.docx) |
